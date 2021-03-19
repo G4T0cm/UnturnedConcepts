@@ -10,4 +10,4 @@ Incase you would like to add the spawntable:
 
 `Durability_0_Spawntable >id>`
 
-This can be usefull to create a random item that will drop (For example some machine pices)
+This can be usefull to create a random item that will drop (For example some machine pieces)
